@@ -1,6 +1,6 @@
 # QGA-Implementation
 
-In this project I have tried implement the qunantum genetic algorithm suggested by Yang, Wang, & Jiao (2004) and Wang et al. (2013) in Microsoft Q#. However, their algrithm cannot be implemented in a an actual quantum environment because it need to access amplitudes of Qubits and needs to measure them to evaluate. Therefore, following program does not converge.
+In this project I have tried implement the qunantum genetic algorithm suggested by Yang, Wang, & Jiao (2004) and Wang et al. (2013) in Microsoft Q#. However, their algrithm cannot be implemented in a an actual quantum environment because it need to access amplitudes of Qubits and needs to measure them to evaluate. Therefore, following program does not converge. Refer project report for further details.
 
 Wang, H.; Liu, J.; Zhi, J.; and Fu, C. 2013. The improvement of quantum genetic algorithm and its application on function optimization.
 
